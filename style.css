@@ -1,0 +1,16 @@
+form{
+    border:6px solid gray;
+    width: 400px;
+    margin-left: 25%;
+    padding: 20px;
+    border-radius: 5px;
+    background: #6c749e;
+    color: white;
+    font-family: sans-serif;
+}
+
+
+input[type="email"
+]{
+  margin-left: 30px;  
+}
