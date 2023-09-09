@@ -4,13 +4,17 @@ form{
     margin-left: 25%;
     padding: 20px;
     border-radius: 5px;
-    background: #6c749e;
+    background: #9199c0;
     color: white;
     font-family: sans-serif;
+    margin-top: 20px;
 }
 
-
+input{
+    outline: none;
+}
 input[type="email"
 ]{
-  margin-left: 30px;  
+  margin-left: 30px;
+
 }
